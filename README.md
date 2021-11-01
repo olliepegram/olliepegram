@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+
+## I'm Ollie, from Sydney Australia. Currently working with React and creating some fun projects!
+
+
 
 <!--
 **olliepegram/olliepegram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
