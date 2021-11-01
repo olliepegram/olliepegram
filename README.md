@@ -1,6 +1,6 @@
-### Howdy 👋
+# Howdy 👋
 
-## I'm Ollie, from Sydney Australia. Currently working with React and creating some fun projects!
+### I'm Ollie, from Sydney Australia. Currently working with React and creating some fun projects!
 
 
 
