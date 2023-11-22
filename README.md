@@ -1,6 +1,11 @@
 # Howdy 👋
 
-### I'm Ollie, from Sydney Australia. Currently working with React and creating some fun projects!
+### I'm Ollie, from Sydney Australia. Currently working with React and creating some fun projects
+
+##### I'm currently working on:
+- RunRampUp: A running program builder, that's all based on heart rate training
+- My personal portfolio: a site about ME!
+- Learning more everyday
 
 
 
