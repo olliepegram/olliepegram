@@ -1,8 +1,9 @@
 # Howdy 👋
 
-### I'm Ollie, from Sydney Australia. Currently working with React and creating some fun projects
+### I'm Ollie, from Sydney Australia. Currently working with React/Nextjs and creating some fun projects
 
 ##### I'm currently working on:
+- Stride Seekers: Find a running club near you or host a club
 - RunRampUp: A running program builder, that's all based on heart rate training
 - My personal portfolio: a site about ME!
 - Learning more everyday
